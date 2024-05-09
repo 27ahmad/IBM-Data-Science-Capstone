@@ -1,13 +1,13 @@
 
-# Applied Data Science Capstone
-
+#  📊 Applied Data Science Capstone
+ 
 The Capstone is the final course in the IBM Data Science Professional Certificate program. It's a project that combines all the skills and knowledge you've gained throughout the specialization.
 
 
-## Project Background
+## 📖 Project Background
 
 SpaceX is leading the way in the commercial space industry by making space travel cheaper. They advertise Falcon 9 rocket launches on their website for $62 million, while others charge over $165 million. SpaceX saves money by reusing the first stage of their rockets. So, if we can predict whether they'll reuse it, we can estimate launch costs. Using public information and machine learning, we'll try to forecast if SpaceX will reuse the first stage.
-##  Questions to be answered
+## 🔍 Questions to be answered
 
 - How do factors like payload mass, launch site, number of flights, and orbits influence the likelihood of a successful first stage landing?
 
@@ -16,7 +16,7 @@ SpaceX is leading the way in the commercial space industry by making space trave
 - What is the best algorithm that can be used for binary classification in this case?
 
 
-## Methodology
+## 📈 Methodology
 1.  ### Data collection methodology 
 - Using SpaceX Rest API.
 - Using Web Scrapping from Wikipedia.
